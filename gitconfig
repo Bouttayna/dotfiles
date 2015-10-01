@@ -49,3 +49,8 @@
 [user]
 	email = boutayna.badou@gmail.com
 	name = boutayna badou
+[gui]
+	recentrepo = /var/www/html/faery
+	recentrepo = /home/boutayna/Bureau/git_tutorial
+	recentrepo = /home/boutayna/Bureau
+	recentrepo = /home/boutayna/Bureau/GitTutorial
